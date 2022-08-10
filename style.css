@@ -1,0 +1,16 @@
+header {
+    height: 200px;
+    background-color: black;
+}
+main {
+    height: 200px;
+    background-color: gray;
+}
+aside {
+    height: 200px;
+    background-color: gray;
+}
+footer {
+    height: 200px;
+    background-color: white;
+}
